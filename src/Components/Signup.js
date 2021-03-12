@@ -82,9 +82,7 @@ export class Signup extends Component {
                   type="submit" value="submit"
                 />
               </div>
-              {/* <div className="lh-copy mt3">
-                 <a  href="./Signup">Signup</a>
-              </div> */}
+             
             </div>
           </form>
         </div>
